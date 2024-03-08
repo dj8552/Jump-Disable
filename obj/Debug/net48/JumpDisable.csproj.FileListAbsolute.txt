@@ -1,0 +1,14 @@
+C:\Users\Cameron\Desktop\JumpDisable\bin\Debug\net48\manifest.xml
+C:\Users\Cameron\Desktop\JumpDisable\bin\Debug\net48\JumpDisable.dll
+C:\Users\Cameron\Desktop\JumpDisable\bin\Debug\net48\JumpDisable.pdb
+C:\Users\Cameron\Desktop\JumpDisable\bin\Debug\net48\0Harmony.dll
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.csproj.AssemblyReference.cache
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.AssemblyInfoInputs.cache
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.AssemblyInfo.cs
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.csproj.Fody.CopyLocal.cache
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.csproj.CopyComplete
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.dll
+C:\Users\Cameron\Desktop\JumpDisable\obj\Debug\net48\JumpDisable.pdb

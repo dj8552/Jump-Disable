@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "cCI5bGaBDqdQZbMrsskBN0Z7fmbQ96+6OH7m/vrn9CAhv0tgx/jVe5VU57zSIil6gV4kkXuKZ1GbjEe9hTCDTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cameron\\Desktop\\JumpDisable\\JumpDisable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cameron\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.3\\microsoft.netframework.referenceassemblies.net48.1.0.3.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\nlog\\4.4.12\\nlog.4.4.12.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\polysharp\\1.13.1\\polysharp.1.13.1.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\protobuf-net\\1.0.0\\protobuf-net.1.0.0.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\spaceengineersdedicated.referenceassemblies\\1.203.505\\spaceengineersdedicated.referenceassemblies.1.203.505.nupkg.sha512",
+    "C:\\Users\\Cameron\\.nuget\\packages\\torch.server.referenceassemblies\\1.3.1.260-master\\torch.server.referenceassemblies.1.3.1.260-master.nupkg.sha512"
+  ],
+  "logs": []
+}
